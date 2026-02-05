@@ -1,5 +1,7 @@
 # TikTok Ads Creative Flow Simulation
 
+## 🔗 Live Demo: [https://frontend-assignment-tik-tok-ads-cre.vercel.app/](https://frontend-assignment-tik-tok-ads-cre.vercel.app/)
+
 🎯 **Focus**: Real-world API integration, conditional logic, and error handling.
 
 This project is a React application that simulates a TikTok Ads creative setup flow, including OAuth integration, music selection logic, and API error messaging.
